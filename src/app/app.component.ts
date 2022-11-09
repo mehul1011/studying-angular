@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   // data binding property for view template (html)
   title = 'Angular-starter';
+  message = 'This is the start.';
 }
